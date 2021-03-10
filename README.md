@@ -1,5 +1,7 @@
 # A project on MERN Authentication
 
-## MERN STACK and maybe Tailwindcss
+My project is built using MongoDB, Expressjs, Reactjs and Nodejs.
 
-### What happens when the project is done
+ MERN STACK and maybe Tailwindcss.
+
+We'll have a look at the project when it's done and make mad changes.
