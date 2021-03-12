@@ -57,7 +57,9 @@ const LoginScreen = ({history}) => {
 
                 
                 <div className="form-group">
-                    <label htmlFor="password">Password:</label>
+                    <label htmlFor="password">Password: 
+                    <Link to='/forgotpassword'>Forgot Password ?</Link>
+                    </label>
                     <input type='password'
                            required
                            id="password"
